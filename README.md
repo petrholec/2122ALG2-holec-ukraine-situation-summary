@@ -5,7 +5,7 @@ Napište program, který stáhne a zobrazí statistiku ohledně současné situa
 
 ### Návrh řešení
 1. Import dat
-  * Stažení z webu, přizpůsobení dat pro program
+   * Stažení z webu, přizpůsobení dat pro program
 2. Zobrazení dat o útěku
   * Zobrazení dat od počátku operace
   * Zobrazení dat ve vybraném časovém úseku 
