@@ -7,14 +7,14 @@ Napište program, který stáhne a zobrazí statistiku ohledně současné situa
 1. Import dat
    * Stažení z webu, přizpůsobení dat pro program
 2. Zobrazení dat o útěku
-  * Zobrazení dat od počátku operace
-  * Zobrazení dat ve vybraném časovém úseku 
+    * Zobrazení dat od počátku operace
+    * Zobrazení dat ve vybraném časovém úseku 
 3. Zobrazení dat o návratu
-  * Zobrazení dat od počátku operace
-  * Zobrazení dat ve vybraném časovém úseku
+    * Zobrazení dat od počátku operace
+    * Zobrazení dat ve vybraném časovém úseku
 4. Zobrazení dat do kterých zemí a v jakém počtu utekli
-  * Zobrazení dat od počátku operace
-  * Zobrazení dat ve vybraném časovém úseku
+    * Zobrazení dat od počátku operace
+    * Zobrazení dat ve vybraném časovém úseku
 5. Ukončení programu
 
 ### Externí knihovna Xchart
