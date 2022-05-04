@@ -18,8 +18,4 @@ Napište program, který stáhne a zobrazí statistiku ohledně současné situa
 5. Ukončení programu
 
 ### Externí knihovna Xchart
-K zobrazení dat v grafu využijeme externí knhovnu Xchart, zvládne zejména tyto funkce:
-* Výsečové grafy
-* Sloupcové grafy
-* Čárové grafy
-* a další...
+K zobrazení dat v grafu využijeme externí knhovnu Xchart nebo JFreeChart, ještě jsem se úplně nerozhodl
