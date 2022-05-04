@@ -1,7 +1,7 @@
 # Ukraine situation summary
 
 ### Zadání práce
-Napište program, který stáhne a zobrazí statistiku ohledně současné situace na Ukraině. Data budou uložená ve formě JSON na stránkách https://data2.unhcr.org/en/situations/ukraine. Zobrazte data pomocí externí knihovny, která zobrazí grafy. Jeden graf by měl zobrazovat počty uprchlíku od začátku operace, další pro vybraný časový úsek. Grafy by mělo být možné po zobrazení uložit.
+Napište program, který stáhne a zobrazí statistiku ohledně současné situace na Ukraině. Data budou uložená ve formě JSON na stránkách https://data2.unhcr.org/en/situations/ukraine. Zobrazte data pomocí externí knihovny, která zobrazí grafy. Jeden graf by měl zobrazovat počty uprchlíku od začátku operace, další pro vybraný časový úsek. Grafy by mělo být možné po zobrazení uložit ve formátu .png nebo .jpeg.
 
 ### Návrh řešení
 1. Import dat
