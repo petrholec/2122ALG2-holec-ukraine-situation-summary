@@ -17,5 +17,5 @@ Napište program, který stáhne a zobrazí statistiku ohledně současné situa
     * Zobrazení dat ve vybraném časovém úseku
 5. Ukončení programu
 
-### Externí knihovna Xchart
+### Externí knihovna Xchart/JFreeChart
 K zobrazení dat v grafu využijeme externí knhovnu Xchart nebo JFreeChart, ještě jsem se úplně nerozhodl
